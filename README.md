@@ -1,5 +1,5 @@
 # word-vec - word embedding
-using word to vec to sentiment analysis
+using word to vector ( word embedding ) for sentiment analysis.
 
 
 
