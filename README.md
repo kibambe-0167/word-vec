@@ -1,4 +1,4 @@
-# word-vec
+# word-vec - word embedding
 using word to vec to sentiment analysis
 
 
